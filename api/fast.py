@@ -4,7 +4,6 @@ import pandas as pd
 from datetime import datetime
 import pytz
 import joblib
-import os
 
 app = FastAPI()
 
