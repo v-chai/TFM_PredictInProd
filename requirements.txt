@@ -21,6 +21,6 @@ gcsfs
 google-cloud-storage
 termcolor
 fastapi
-os
+uvicorn
 pytz
 datetime
